@@ -382,7 +382,7 @@
 
 **On-premise CDN using Nginx:**
 - **Locations:** US and Europe.
-- **Servers:** 10 Nginx servers for caching.
+- **Servers:** 3 Nginx servers for caching and one on-premise load balancer
 - **Direct management:** Caching, load balancing, and content delivery.
 
 **Current Topology Diagram:**
